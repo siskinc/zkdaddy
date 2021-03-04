@@ -2,7 +2,7 @@ import sys
 import json
 from kazoo.client import KazooClient
 from utils.printx import print_json
-from config import config
+from utils.config import config
 from colorama import Fore
 
 

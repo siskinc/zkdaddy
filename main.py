@@ -1,5 +1,5 @@
 import click
-from zk import show_zk_config, set_zk_key, del_zk_key
+from utils.zk import show_zk_config, set_zk_key, del_zk_key
 from colorama import init
 
 
